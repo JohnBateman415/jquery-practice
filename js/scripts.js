@@ -3,7 +3,7 @@
 
 $( document ).ready( function () {
 
-  console.log("Document was loaded");
+  console.log("Document was loadeda");
 
 });
 
